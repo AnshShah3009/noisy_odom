@@ -3,5 +3,5 @@ This package adds a node to add drift to Odometry_msgs from simulation to create
 
 # Installation Procedure
 ```bash
-git clone 
+git clone https://github.com/AnshShah3009/noisy_odom.git
 ```
