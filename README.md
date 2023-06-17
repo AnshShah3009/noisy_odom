@@ -6,4 +6,4 @@ This package adds a node to add drift to Odometry_msgs from simulation to create
 ```bash
 git clone https://github.com/AnshShah3009/noisy_odom.git
 ```
-2. Modify the topic and frame ids for tf and corrupt_odom topic publisher.
+2. Modify the topic and frame ids for tf and corrupt_odom topic publisher in the scripts/noisy_odom.py
